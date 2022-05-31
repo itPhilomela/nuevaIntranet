@@ -1,0 +1,215 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 106px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  text-shadow: 2px 0 8px rgba(128,128,128,1);
+  font-size: 4.5rem;
+  margin: 14px auto;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+} .u-section-2 {
+  min-height: 980px;
+}
+
+.u-section-2 .u-image-1 {
+  object-position: 0% 50%;
+  width: 620px;
+  height: 980px;
+  margin: 0 0 0 auto;
+}
+
+.u-section-2 .u-group-1 {
+  width: 537px;
+  min-height: 828px;
+  background-image: none;
+  height: auto;
+  margin: -910px auto 0 calc(((100% - 1140px) / 2));
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 0 30px 30px;
+}
+
+.u-section-2 .u-text-1 {
+  line-height: 66px;
+  font-size: 2.25rem;
+  margin: 0;
+}
+
+.u-section-2 .u-icon-1 {
+  font-size: 2.1667em;
+  margin-right: 0;
+  vertical-align: -12px;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 1.125rem;
+  line-height: 2.2;
+  font-weight: 400;
+  margin: 0;
+}
+
+.u-section-2 .u-text-3 {
+  text-align: left;
+  font-size: 1rem;
+  font-weight: bold;
+  margin: 45px 37px 0 7px;
+}
+
+.u-section-2 .u-btn-1 {
+  letter-spacing: 1px;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-image: none;
+  margin: 58px auto 0 151px;
+}
+
+.u-section-2 .u-rotation-parent-1 {
+  width: calc(((100% - 1140px) / 2) + 483px);
+  height: 305px;
+  margin: -589px 0 0 auto;
+}
+
+.u-section-2 .u-shape-1 {
+  width: 533px;
+  height: 305px;
+}
+
+.u-section-2 .u-image-2 {
+  width: 570px;
+  height: 185px;
+  --animation-custom_in-translate_x: -400px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 1;
+  margin: -216px calc(((100% - 1140px) / 2)) 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-group-1 {
+    margin-left: calc(((100% - 940px) / 2));
+    height: auto;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-2 .u-rotation-parent-1 {
+    width: calc(((100% - 940px) / 2) + 483px);
+  }
+
+  .u-section-2 .u-shape-1 {
+    margin: -573px calc(((100% - 940px) / 2)) 0 auto;
+  }
+
+  .u-section-2 .u-image-2 {
+    margin-top: -292px;
+    margin-right: calc(((100% - 940px) / 2));
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-group-1 {
+    margin-left: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-2 .u-rotation-parent-1 {
+    width: calc(((100% - 720px) / 2) + 483px);
+  }
+
+  .u-section-2 .u-shape-1 {
+    margin-right: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-2 .u-image-2 {
+    margin-right: calc(((100% - 720px) / 2));
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-2 {
+    min-height: 844px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 540px;
+    height: 854px;
+  }
+
+  .u-section-2 .u-group-1 {
+    margin-top: -784px;
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+  }
+
+  .u-section-2 .u-rotation-parent-1 {
+    width: calc(((100% - 540px) / 2) + 483px);
+  }
+
+  .u-section-2 .u-shape-1 {
+    margin-right: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 540px;
+    height: 175px;
+    margin-right: calc(((100% - 540px) / 2));
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-2 {
+    min-height: 1024px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 538px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 340px;
+    margin-top: -468px;
+    margin-left: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-rotation-parent-1 {
+    width: calc(((100% - 340px) / 2) + 483px);
+  }
+
+  .u-section-2 .u-shape-1 {
+    margin-right: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 340px;
+    height: 110px;
+    margin-top: -216px;
+    margin-right: calc(((100% - 340px) / 2));
+  }
+}
