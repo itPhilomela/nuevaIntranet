@@ -29,7 +29,9 @@ app.use(function(req,res,next){
     next();}
 });
 
+const PORT = process.env.PORT;
 
-app.listen(8989, ()=>{
-  console.log('SERVER UP running in htt://localhost:8989')
+
+app.listen(PORT, function()=>{
+  console.log('SERVER UP running in htt://heroku:', PORT);
 });
